@@ -1,0 +1,3 @@
+# Chaste Project for Nottingham Multiscale Biology Summer School 2017
+
+See instructions at https://chaste.cs.ox.ac.uk/trac/wiki/NottinghamSummerSchool2017 for how to use this...
